@@ -9,7 +9,6 @@
   "peerDependencies": {
     "@angular/common": "^9.0.0",
     "@angular/core": "^9.0.0",
-    "tslib": "^1.10.0",
     "rxjs": "~6.5.4"
   },
   "keywords": [
@@ -37,5 +36,8 @@
    "bugs": {
      "url": "https://github.com/sliceofbytes/ngx-videogular/issues"
    },
-   "homepage": "http://videogular.com"
+   "homepage": "http://videogular.com",
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
 }
